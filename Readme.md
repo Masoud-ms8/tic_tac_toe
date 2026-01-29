@@ -36,7 +36,7 @@ pip install PyQt6
 2. وارد پوشه پروژه شوید:
 
 ```bash
-cd dooz_simple
+cd Tic_Tac_Toe
 ```
 
 3. بازی را اجرا کنید:
